@@ -1,31 +1,34 @@
-{
-	body {
-		font-family: Consolas, monospace;
-		font-size: 32px;
-	}
+body {
+	font-family: Times New Roman, monospace;
+	font-size: 32px;
+}
 
-	table {
-		font-family: Times New Roman, monospace;
-		border-collapse: collapse;
-		font-size: 32px;
-	}
+table {
+	font-family: Times New Roman, monospace;
+	border-collapse: collapse;
+	font-size: 32px;
+}
 
-	table,
-	th,
-	td {
-		border: 1px solid black;
-	}
+table,
+th,
+td {
+	border: 1px solid black;
+}
 
-	td {
-		text-align: center;
-		padding: 3px;
-	}
+td {
+	text-align: center;
+	padding: 3px;
+}
 
-	.centerr {
-		text-align: center;
-	}
+.centerr {
+	text-align: center;
+}
 
-	.centerrr {
-		margin: 0 auto;
-	}
+.centerrr {
+	margin: 0 auto;
+}
+
+element.style {
+	display: inline-block;
+	transform: scaleX(-1) scaleY(-1);
 }
