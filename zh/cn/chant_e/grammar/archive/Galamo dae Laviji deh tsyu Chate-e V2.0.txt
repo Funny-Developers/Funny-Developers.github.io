@@ -1,0 +1,42 @@
+E语V2.0
+
+拼音表
+声母：
+不卷舌 b/p/ p/ph/ m/m/ f/f/ d/t/ t/h/ n/n/ ng/ng/ ñ/ñ/ l/l/ g/k/ k/kh/ h/x/ ds/dz/ ts/ts/ s/s/ y/j/
+卷舌 dh/t(r)/ th/th(r)/ r/r/ dr/d3/ tr/tf/ sh/f/ yr/λ/ gr/k(r)/ kr/kh(r)/
+颤音 rs/ɾ/ rm/r(多击颤音)/
+韵母:
+a/a:/ o/o:/ e/e/ eh/3:/ i/i:/ ih/ɻ̩/ u/u:/ uy/y/ ie/ye/ ieh/y3:/ ao/aΩ/ ou/反eΩ/
+声调:
+1(55) 2(35) 3(21) 4(51) 5(44)
+
+e.g. Ni2no2re4 a1yi1dre3 e1s.
+     我是你的爱人。
+
+语法
+语序：标准为主宾谓，也可自由调整
+格：
+主格 宾格 与格 代格
+性：
+阳性 阴性
+阳性可替代中性
+主格	1	2	3	4		
+sing.no2	ni2	ko1	nin2	m.&n.	
+	na2	nih2	kro1	nihn2	f.	
+pl.	no2me	ni2me	ko1me	nin2me	m.&n.	
+	na2me	nih2me	kro1me	nihn2me	f.	
+宾格	1	2	3	4		名词+bin4
+sing.mo2	mi2	go1	min2	m.&n.	
+	ma2	mih2	gho1	mihn2	f.	
+pl.	no2me	mi2me	go1me	min2me	m.&n.	
+	ma2me	mih2me	gro1me	mihn2me	f.	
+与格	1	2	3	4		
+sing.mo2ge	mi2ge	go1ge	min2ge	m.&n.	名词+ñuy2
+	ma2ge	mih2ge	gro1ge	mihn2ge	f.	
+pl.	mo2mege	mi2mege	go1mege	min2mege	m.&n.	
+	ma2mege	mih2mege	gro1mege	mihn2mege	f.	
+代格	如果主宾一致就加se4，不一致直接加主语原本形式					
+主动格	加ch					
+被动格	加be					
+方位格	上sha1	下sa4 	左leh1	右yrie4	里in4	
+	     外ao4 	回ba5 	出chih3			
