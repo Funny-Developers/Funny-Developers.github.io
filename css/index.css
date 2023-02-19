@@ -20,12 +20,17 @@ td {
 	padding: 3px;
 }
 
-.centerr {
+.TextCenter {
 	text-align: center;
 }
 
-.centerrr {
+.TableCenter {
 	margin: 0 auto;
+}
+
+.SpanCenter {
+	text-align: center;
+	display: block;
 }
 
 element.style {
