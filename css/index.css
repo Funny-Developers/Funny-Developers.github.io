@@ -1,12 +1,10 @@
 body {
 	font-family: Times New Roman, monospace;
-	font-size: 32px;
 }
 
 table {
 	font-family: Times New Roman, monospace;
 	border-collapse: collapse;
-	font-size: 32px;
 }
 
 table,
@@ -31,6 +29,10 @@ td {
 .SpanCenter {
 	text-align: center;
 	display: block;
+}
+
+.NonDefaultFont {
+	font-size: 32px;
 }
 
 element.style {
