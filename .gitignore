@@ -91,3 +91,5 @@ fabric.properties
 
 # Just ignore everything for the website.
 .idea/
+
+*.bak
